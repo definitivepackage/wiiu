@@ -1,0 +1,2 @@
+# AddType allows you to add to or override the MIME configuration
+AddType application/octet-stream .bin .exe .elf
